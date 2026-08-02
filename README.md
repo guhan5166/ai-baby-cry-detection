@@ -75,22 +75,6 @@ When a cry is detected, the system:
 
 ---
 
-# 📁 Project Structure
-
-```text
-smart-cradle-ai/
-│
-├── cry_monitor.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-└── models/
-    └── cry_detection_yamnet_robust.keras
-```
-
----
-
 # 🧠 AI Model
 
 This project uses **YAMNet** as the audio feature extractor.
